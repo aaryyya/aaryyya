@@ -11,14 +11,13 @@ Hi there I am Arya Patil👋
 ### Frameworks & Libraries
 - React, Node.js, Express, Pandas, NumPy
 
-  ## How to Reach Me
+## Let's Collaborate!
+- Open to freelance and contract work in Web Development, Machine Learning and Data Science and Analytics.
+
+## How to Reach Me
   
 - 📧 [Email](mailto:aryampatil2005@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arya--patil/)
-
-
-## Let's Collaborate!
-- Open to freelance and contract work in Web Development, Machine Learning and Data Science and Analytics. 
 
 ## Languages and Tools
 
