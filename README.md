@@ -1,5 +1,6 @@
 ## About Me
 Hi there I am Arya Patil👋
+
 💻 A passionate developer who loves to build cool projects and learn new technologies!  
 🌱 Currently exploring Machine Learning, Data Science and Data Analytics. 
 
