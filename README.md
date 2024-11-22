@@ -1,17 +1,23 @@
-## Hi there I am Arya Patil👋
-
-
- 
+## About Me
+Hi there I am Arya Patil👋
 💻 A passionate developer who loves to build cool projects and learn new technologies!  
-🌱 Currently exploring [Machine Learning, Data Science and Web Development].  
+🌱 Currently exploring Machine Learning, Data Science and Data Analytics. 
 
+## Skills
+### Programming Languages
+- Python, Java, JavaScript, R, SQL, HTML, CSS
 
+### Frameworks & Libraries
+- React, Node.js, Express, Pandas, NumPy
 
   ## How to Reach Me
   
 - 📧 [Email](mailto:aryampatil2005@gmail.com)
-- 🔗 [LinkedIn]([(https://www.linkedin.com/in/arya--patil/)])
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arya--patil/)
 
+
+## Let's Collaborate!
+- Open to freelance and contract work in Web Development, Machine Learning and Data Science and Analytics. 
 
 ## Languages and Tools
 
