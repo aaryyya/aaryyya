@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryyya&label=Profile%20views&color=0e75b6&style=flat" alt="aaryyya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaryyya" alt="aaryyya" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?aaryyya=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me *aryampatil2005@gmail.com*
 
