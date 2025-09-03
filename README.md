@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 <h4 align="">💻 A passionate developer who loves to build cool projects and learn new technologies! 
-  <br/>🌱 Currently exploring Machine Learning, Data Science and Data Analytics.</h4>
+  <br/>🌱 Currently exploring Data Analytics and Machine Learning, Data Science.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryyya&label=Profile%20views&color=0e75b6&style=flat" alt="aaryyya" /> </p>
 
