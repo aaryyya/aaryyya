@@ -2,7 +2,7 @@
 <h4 align="">💻 A passionate developer who loves to build cool projects and learn new technologies! 
   <br/>🌱 Currently exploring Data Analytics and Machine Learning, Data Science.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaryyya&label=Profile%20views&color=0e75b6&style=flat" alt="aaryyya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aaryyya&label=Profile%20views&color=0e75b6&style=flat" alt="aaryyya" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aaryyya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
