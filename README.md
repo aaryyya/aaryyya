@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arya</h1>
 
 <h4 align="center">💻 A passionate developer who loves to build cool projects and learn new technologies! 
-  <br/>🌱 Currently exploring Data Analytics, Machine Learning, and Data Science.
+  <br/>🌱 Currently exploring Data Analytics, Spring and Data Science.
 </h4>
 
 <p align="center">
