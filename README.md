@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Arya</h1>
+<div align="center">
+  <div align="center">
+  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200" height="150" />
+</div>
+</div>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+✨;+I'm+Arya+Patil!;" />
+</h1>
 
 <h4 align="center">💻 A passionate developer who loves to build cool projects and learn new technologies! 
   <br/>🌱 Currently exploring Data Analytics, Spring and Data Science.
