@@ -1,11 +1,12 @@
 <div align="center">
   <div align="center">
-  <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="200" height="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" />
+
 </div>
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+✨;+I'm+Arya+Patil!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+✨;+I'm+Arya!;" />
 </h1>
 
 <h4 align="center">💻 A passionate developer who loves to build cool projects and learn new technologies! 
@@ -40,6 +41,7 @@
   <a href="mailto:aryampatil2005@gmail.com" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" height="30" width="40" />
   </a>
+  
 </p>
 
 
