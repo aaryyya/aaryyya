@@ -71,9 +71,6 @@
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
   </a>
-  <a href="https://maven.apache.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachemaven/apachemaven-original-wordmark.svg" alt="Maven" width="40" height="40"/>
-  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
@@ -112,9 +109,6 @@
   </a>
   <a href="https://www.r-project.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/>
-  </a>
-  <a href="https://posit.co/download/rstudio-desktop/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/RStudio_logo.svg" alt="RStudio" width="40" height="40"/>
   </a>
 </p>
 
