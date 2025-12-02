@@ -138,9 +138,7 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="40" height="40"/>
   </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Icon.svg" alt="IntelliJ" width="40" height="40"/>
-  </a>
+  
 </p>
 
 
