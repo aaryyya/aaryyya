@@ -8,6 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+✨;+I'm+Arya!;" />
 </h1>
 
+
 <h4 align="center">💻 A passionate developer who loves to build cool projects and learn new technologies! 
   <br/>🌱 Currently exploring Data Analytics, Spring and Data Science.
 </h4>
