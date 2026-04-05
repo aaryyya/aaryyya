@@ -21,7 +21,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aaryyya&theme=algolia&margin-w=15&margin-h=15&column=3&rank=-?" alt="trophy" />
   </a>
 </div>
-
 ---
 
 <h3 align="left">Connect with me:</h3>
